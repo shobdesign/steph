@@ -1,13 +1,15 @@
-#Work
+# Work
 
-##Project A
+## Project A
 
-This project is about this.
+This project is about.
 
-##Project B
+![alt text](/Images/IMG_1530.JPG "Logo Title Text 1")
 
-This project is about this.
+## Project B
 
-##Project B
+This project is about.
 
-This project is about this.
+## Project B
+
+This project is about.
