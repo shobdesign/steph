@@ -4,7 +4,7 @@
 
 This project is about.
 
-![alt text](steph/vangogh.png "Logo Title Text 1")
+![alt text](vangogh.png "Logo Title Text 1")
 
 ## Project B
 
