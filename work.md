@@ -10,6 +10,6 @@ This project is about.
 
 This project is about.
 
-## Project B
+## Project C
 
 This project is about.
